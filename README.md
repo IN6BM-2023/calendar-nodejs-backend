@@ -1,4 +1,4 @@
-# Backend MERM - Calendar - Gestor de opiniones
+# Backend MERN - Calendar - Gestor de opiniones
 
 ESTE PROYECTO TAL Y COMO ESTA NO FUNCIONA, SE REQUIRE QUE LO 
 DESCARGUE DE FORMA LOCAL DARLE SOLUCIÓN EN RELACIÓN A LO VISTO
